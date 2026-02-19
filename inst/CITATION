@@ -1,0 +1,21 @@
+citHeader("To cite poLCAParallel in publications use:")
+
+bibentry(
+  bibtype      = "Misc",
+  title        = "Speeding up and Parallelising {R} packages (using {Rcpp} and {C++} | QMUL ITS Research Blog)",
+  author       = "Sherman E. Lo",
+  year         = "2022",
+  url          = "https://blog.hpc.qmul.ac.uk/speeding_up_r_packages/"
+)
+
+bibentry(
+  bibtype      = "Article",
+  title        = "{poLCA}: An {R} Package for Polytomous Variable Latent Class Analysis",
+  author       = c("Drew A. Linzer", "Jeffrey B. Lewis"),
+  journal      = "Journal of Statistical Software",
+  year         = "2011",
+  volume       = "42",
+  number       = "10",
+  pages        = "1--29",
+  url          = "https://www.jstatsoft.org/article/view/v042i10"
+)
